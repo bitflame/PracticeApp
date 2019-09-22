@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\bin\Debug\PracticeApp.exe.config
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\bin\Debug\PracticeApp.exe
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\bin\Debug\PracticeApp.pdb
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\obj\Debug\PracticeApp.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\obj\Debug\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\obj\Debug\PracticeApp.exe
+C:\Users\usr\source\repos\PracticeApp\PracticeApp\obj\Debug\PracticeApp.pdb
